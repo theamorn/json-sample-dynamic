@@ -215,7 +215,7 @@
             "click_event":"toast:log out",
             "child":{
                "type":"Text",
-               "data":"Log me out"
+               "data":"Log me out please"
             }
          }
       }
